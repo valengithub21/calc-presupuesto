@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Presupuesto",
+  "description": "Una aplicación PWA para crear presupuestos de materiales de madera, con cálculo de márgenes y exportación a PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
