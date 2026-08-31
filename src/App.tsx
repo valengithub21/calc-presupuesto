@@ -75,7 +75,7 @@ export default function App() {
           <div className="flex items-center gap-3 w-full sm:w-auto sm:flex-1 sm:max-w-xs justify-end">
             <input
               type="text"
-              placeholder="Nombre del Cliente / Proyecto"
+              placeholder="Nombre del cliente"
               value={budgetName}
               onChange={(e) => setBudgetName(e.target.value)}
               className="w-full px-4 py-2.5 rounded-lg border border-stone-300 dark:border-stone-700 bg-white dark:bg-stone-950 focus:border-amber-600 dark:focus:border-amber-500 focus:ring-2 focus:ring-amber-200 dark:focus:ring-amber-900 outline-none transition-colors font-bold text-stone-800 dark:text-stone-100 placeholder:font-semibold placeholder:text-stone-400 dark:placeholder:text-stone-500 text-sm shadow-sm"
